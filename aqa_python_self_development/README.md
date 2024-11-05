@@ -1,1 +1,0 @@
-# aqa_python_self_development
